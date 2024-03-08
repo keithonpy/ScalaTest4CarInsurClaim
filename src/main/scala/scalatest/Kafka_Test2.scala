@@ -6,7 +6,7 @@ import org.apache.hadoop.hbase.util.Bytes
 import org.apache.hadoop.hbase.client.{Connection, ConnectionFactory, Put, Admin}
 import org.apache.hadoop.hbase.{HBaseConfiguration, TableName, HColumnDescriptor, HTableDescriptor}
 
-object Kafka_Test extends App{
+object Kafka_Test2 extends App{
 
 //####################################################
 // Parameters for the script
