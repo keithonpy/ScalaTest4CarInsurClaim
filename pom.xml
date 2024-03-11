@@ -98,7 +98,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>scalatest.Kafka_Test</mainClass>
+                            <mainClass>scalatest.Kafka_Test2</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
